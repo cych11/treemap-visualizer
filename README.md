@@ -1,1 +1,2 @@
 # treemap-visualizer
+This is an interactive treemap visualization tool featuring a general API, and specific subclasses that visualize two different kinds of data: the files and folders in your computer, and a set of research papers. This visualizer helps display the order in which subtrees are shown matters when modelling files, but not when modelling research paper data. You can also manipulate with the visualizer, by being able to collapse and expand files, and change the current folder being viewed.
